@@ -1,6 +1,6 @@
 # Waits for all Redis nodes to be ready
 echo "Waiting for the Redis nodes to be ready..."
-sleep 15
+sleep 10
 
 # Creates the cluster
 echo "Creating the Redis cluster..."
